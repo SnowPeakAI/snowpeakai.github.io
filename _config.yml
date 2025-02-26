@@ -1,0 +1,40 @@
+title: SnowPeak AI
+description: Reaching New Heights in Trustworthy AI.
+baseurl: ""
+url: https://snowpeakai.github.io
+theme: cvless
+
+# site settings
+taglong: Reaching New Heights in Trustworthy AI.
+tagshort: Reaching New Heights in Trustworthy AI.
+
+# author settings
+author:
+  name: Guillaume Vidot Damour
+  email: g.vidot_damour@icloud.com
+
+# profile links
+profile:
+  linkedin: https://www.linkedin.com/in/guillaume-vidot-damour-4140b8160
+  github: https://github.com/SnowPeakAI
+  malt: https://www.malt.fr/profile/guillaumevidotdamour
+
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+  - docker-compose.yml
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
