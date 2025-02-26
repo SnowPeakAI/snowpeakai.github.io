@@ -2,7 +2,7 @@ title: SnowPeak AI
 description: Reaching New Heights in Trustworthy AI.
 baseurl: ""
 url: https://snowpeakai.github.io
-theme: cvless
+remote-theme: cvless
 
 # site settings
 taglong: Reaching New Heights in Trustworthy AI.
