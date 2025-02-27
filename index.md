@@ -28,7 +28,7 @@ We bring our expertise in **trustworthy AI** to every project. We assess the nee
 ---
 
 ## 🤝 Let's Work Together  
-If you’re looking to explore new AI solutions or improve existing ones, we’re here to help!
+If you are looking to explore new AI solutions or improve existing ones, we are here to help!
 We tailor our approach to your needs, bringing a focus on **robustness, fairness,** and **explainability** when it matters most.  
 Reach out to [us](mailto:g.vidot_damour@icloud.com).  
 
@@ -36,6 +36,6 @@ Reach out to [us](mailto:g.vidot_damour@icloud.com).
 
 ## 👋 About Me  
 I am Guillaume Vidot Damour, the founder of SnowPeak AI.
-With a PhD focused on the robustness of embedded ML systems at **Airbus**, where I also worked on AI-driven aircraft navigation, and experience enhancing security video analysis at **Foxstream**, I’ve refined my skills in building reliable, high-impact AI solutions.  
+With a PhD focused on the robustness of embedded ML systems at **Airbus**, where I also worked on AI-driven aircraft navigation, and experience enhancing security video analysis at **Foxstream**, I have refined my skills in building reliable, high-impact AI solutions.  
 
-Now, with **SnowPeak AI**, I’m combining my expertise in ML and passion for trustworthy AI to deliver cutting-edge solutions that make a real difference. I’m committed to bridging the gap between theory and practical impact, always learning and evolving to stay ahead.
+Now, with **SnowPeak AI**, I am combining my expertise in ML and passion for trustworthy AI to deliver cutting-edge solutions that make a real difference. I am committed to bridging the gap between theory and practical impact, always learning and evolving to stay ahead.
