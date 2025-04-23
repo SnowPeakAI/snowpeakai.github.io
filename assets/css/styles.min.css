@@ -205,7 +205,7 @@ img {
   display: block;
   max-width: 100%;
   margin: 1em 0;
-  border-radius: 0.25em; }
+}
 
 table.table {
   color: var(--color-text); }
